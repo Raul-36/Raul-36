@@ -1,7 +1,4 @@
 ### Hi  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Raul, a full-time full-stack developer </div>  
@@ -61,4 +58,6 @@
 
 </td></tr></table>  
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raul-36&theme=2077"/>
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raul-36&theme=2077" style="width: 100%"/>
+</div>  
