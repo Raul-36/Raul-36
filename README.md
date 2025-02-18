@@ -1,7 +1,7 @@
 ### Hi  
   
 
-### <div align="center">I'm Raul, a full-time full-stack developer </div>  
+### <div align="center">I'm Raul, full-stack developer </div>  
   
 
 <br/>  
