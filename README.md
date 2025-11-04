@@ -68,7 +68,3 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raul-36&theme=2077" style="width: 100%"/>
 </div>  
 
-
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raul-36&theme=2077" style="width: 100%"/>
-</div>  
